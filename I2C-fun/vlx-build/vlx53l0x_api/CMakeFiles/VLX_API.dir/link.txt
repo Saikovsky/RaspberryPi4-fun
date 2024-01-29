@@ -1,0 +1,2 @@
+/usr/bin/ar qc libVLX_API.a CMakeFiles/VLX_API.dir/inc/vl53l0x_api_calibration.c.o CMakeFiles/VLX_API.dir/inc/vl53l0x_api_core.c.o CMakeFiles/VLX_API.dir/inc/vl53l0x_api_ranging.c.o CMakeFiles/VLX_API.dir/inc/vl53l0x_api_strings.c.o CMakeFiles/VLX_API.dir/inc/vl53l0x_api.c.o
+/usr/bin/ranlib libVLX_API.a

@@ -1,0 +1,6 @@
+/home/latweid2/Projects/I2C-test/vlx-build/CMakeFiles/VLX_I2C.dir
+/home/latweid2/Projects/I2C-test/vlx-build/CMakeFiles/edit_cache.dir
+/home/latweid2/Projects/I2C-test/vlx-build/CMakeFiles/rebuild_cache.dir
+/home/latweid2/Projects/I2C-test/vlx-build/vl53l0x_api/CMakeFiles/VLX_API.dir
+/home/latweid2/Projects/I2C-test/vlx-build/vl53l0x_api/CMakeFiles/edit_cache.dir
+/home/latweid2/Projects/I2C-test/vlx-build/vl53l0x_api/CMakeFiles/rebuild_cache.dir
