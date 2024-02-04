@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <bitset>
 
-int pin = 4;
+int pin = 17;
 
 bool OWTouchReset()
 {
